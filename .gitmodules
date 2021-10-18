@@ -2,3 +2,8 @@
 	path = xmarts/l10n-einvoice-mx
 	url = git@github.com:xmarts/l10n-einvoice-mx.git
 	branch = 14.0
+
+[submodule "xmarts/h20"]
+	path = xmarts/h20
+	url = git@github.com:xmarts/h20.git
+	branch = 14.0-josuealfaro
