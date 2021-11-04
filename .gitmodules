@@ -1,0 +1,4 @@
+[submodule "xmarts/mold_control_pok"]
+	path = xmarts/mold_control_pok
+	url = git@github.com:xmarts/mold_control_pok.git
+	branch = main
